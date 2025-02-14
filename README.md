@@ -10,3 +10,12 @@ Dataset used : https://oneomnicom-my.sharepoint.com/:x:/r/personal/saumik_chakra
 <img width="566" alt="image" src="https://github.com/user-attachments/assets/20425245-560e-4197-9703-bd2741106baa" />
 
 Interactive dashboards provide sales insights across different U.S. regions, allowing selection via the pie chart. For a more detailed view, users can drill down into individual states to extract specific insights.
+
+
+Five key takeaways from the analysis and how they drive decision-making:
+
+1) Top-Selling Products: Phones, Chairs, and Storage are the best-performing categories, guiding inventory planning and marketing efforts.
+2) Regional Sales Performance: The West region contributes the highest sales, helping businesses allocate resources strategically to high-performing markets.
+3) State-Level Insights: California shows the strongest sales, indicating the need for localized promotions and targeted sales strategies.
+4) Seasonal Demand Trends: Sales fluctuate over time with visible peaks, aiding in optimizing pricing, stock levels, and promotional campaigns.
+5) Impact of Discounts on Revenue: The comparison of MRP and post-discount sales highlights the role of pricing strategies in profitability, ensuring balanced discounting without harming margins
