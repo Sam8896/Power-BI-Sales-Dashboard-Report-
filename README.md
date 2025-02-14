@@ -9,7 +9,7 @@ Dataset used : https://oneomnicom-my.sharepoint.com/:x:/r/personal/saumik_chakra
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/e5c9830e-afba-4772-bc2d-702814e3da0b" />
 <img width="566" alt="image" src="https://github.com/user-attachments/assets/20425245-560e-4197-9703-bd2741106baa" />
 
-Interactive dashboards provide sales insights across different U.S. regions, allowing selection via the pie chart. For a more detailed view, users can drill down into individual states to extract specific insights.
+In the above screenshots , interactive dashboards are depicted providing sales insights across different U.S. regions, allowing selection via the pie chart. For a more detailed view, users can drill down into individual states to extract specific insights.
 
 
 
