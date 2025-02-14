@@ -12,6 +12,7 @@ Dataset used : https://oneomnicom-my.sharepoint.com/:x:/r/personal/saumik_chakra
 Interactive dashboards provide sales insights across different U.S. regions, allowing selection via the pie chart. For a more detailed view, users can drill down into individual states to extract specific insights.
 
 
+
 Five key takeaways from the analysis and how they drive decision-making:
 
 1) Top-Selling Products: Phones, Chairs, and Storage are the best-performing categories, guiding inventory planning and marketing efforts.
